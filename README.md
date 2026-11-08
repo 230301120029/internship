@@ -23,7 +23,7 @@ It starts a local server and opens a page with both apps. Needs Python (preinsta
    git add .
    git commit -m "feat: initial release"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/skycast.git
+   git remote add origin https://github.com/230301120029/skycast.git
    git push -u origin main
    ```
    Repeat inside the `taskly` folder with its own repository URL.
