@@ -73,3 +73,10 @@ Test locally with `cd skycast && npx netlify-cli dev`.
 ## Tests and CI
 `npm test` checks files, script syntax and the AI function. GitHub Actions runs it on every push (`.github/workflows/ci.yml`).
 Push the whole `aura-suite` folder as one repo and create two Netlify sites from it, setting Base directory to `skycast` or `taskly`.
+
+---
+
+## Author
+
+**Created by: Shrimaya Panigrahi**
+
