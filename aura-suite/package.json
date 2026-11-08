@@ -1,0 +1,1 @@
+{"name":"aura-suite","version":"2.0.0","private":true,"scripts":{"start":"npx --yes serve -l 8080 .","test":"node tests/check.js","dev:ai":"npx --yes netlify-cli dev --dir skycast"}}
