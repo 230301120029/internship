@@ -2,6 +2,24 @@
 
 Two independent static sites. No build step, no API keys, no cost. Installable as apps (PWA) and work offline after the first visit.
 
+## Skycast — Weather App
+
+![Skycast Screenshot 1](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153656.png)
+
+![Skycast Screenshot 2](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153732.png)
+
+![Skycast Screenshot 3](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153759.png)
+
+![Skycast Screenshot 4](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153820.png)
+
+## Taskly — To-Do App
+
+![Taskly Screenshot 1](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153843.png)
+
+![Taskly Screenshot 2](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153927.png)
+
+![Taskly Screenshot 3](https://raw.githubusercontent.com/230301120029/internship/main/aura-suite/Screenshot%202026-11-08%20153940.png)
+
 ## 0. One-click run
 - Windows: double-click `start.bat`
 - Mac: double-click `start.command` (first time: right-click > Open)
